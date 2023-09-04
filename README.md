@@ -21,23 +21,23 @@ Welcome to the Weather Dashboard project! This web application allows you to sea
 
 1. Clone this repository to your local machine:
 
-  ```git clone https://github.com/your-username/weather-dashboard.git ```
+    ```git clone https://github.com/your-username/weather-dashboard.git ```
 
 1. Navigate to the project directory:
 
-  ``` cd weather-dashboard ```
+    ``` cd weather-dashboard ```
 
 2. Install project dependencies:
 
-  ``` npm install ```
+    ``` npm install ```
 
 3. Create a .env file in the project root and add your OpenWeatherMap API key:
 
-   ``` API_KEY=YOUR_OPENWEATHER_API_KEY ```
+    ``` API_KEY=YOUR_OPENWEATHER_API_KEY ```
 
 5. Start the development server:
 
-  ``` npm start```
+    ``` npm start```
   
 6. Open your web browser and navigate to http://localhost:3000 to use the weather dashboard.
 
