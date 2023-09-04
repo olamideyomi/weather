@@ -1,0 +1,33 @@
+# Node.js / npm
+node_modules/
+
+# Netlify build artifacts
+.netlify/
+
+# Environment variables
+.env
+
+# IDE or editor settings
+.vscode/
+.idea/
+
+# Compiled output
+dist/
+build/
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*.backup
+
+# Cache files
+.cache/
+.cache-loader/
+.cache-*
+.caches/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
