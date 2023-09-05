@@ -718,6 +718,8 @@ img {
     body {
         min-width: auto;
         padding: 20px;
+        position: relative;
+        
     }
 
     .wrapper {
@@ -725,6 +727,7 @@ img {
         min-width: auto;
         flex-direction: column;
         justify-content: center;
+        position: relative;
     }
 
     .sidebar {
