@@ -727,7 +727,7 @@ img {
         min-width: auto;
         flex-direction: column;
         justify-content: center;
-        
+        overflow: hidden;
     }
 
     .sidebar {
