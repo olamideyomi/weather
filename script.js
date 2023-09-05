@@ -132,8 +132,6 @@ function getWeatherData(city, unit, hourlyorWeek) {
 function closeAlert() {
   const alertBox = document.getElementById("customAlert");
   alertBox.classList.remove("show");
-
-
 }
 
 //function to update Forecast
